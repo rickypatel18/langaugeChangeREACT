@@ -1,0 +1,6 @@
+{
+  "welcome": "Bienvenido a nuestra tienda",
+  "product_name": "nombre del producto",
+  "price": "Precio:{{price, currency}}",
+  "date_added": "Fecha de añadido"
+}
