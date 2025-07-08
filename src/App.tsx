@@ -1,4 +1,3 @@
-import "./App.css";
 import "./i18n";
 import LanguageSwitcher from "./components/LanguageSwitcher";
 import ProductCard from "./components/ProductCard";

@@ -2,7 +2,7 @@ import { useTranslation } from "react-i18next";
 
 const LanguageSwitcher = () => {
   const { i18n } = useTranslation();
-  console.log(i18n);
+  console.log({i18n});
 
   return (
     <div className="flex justify-center p-4 gap-2">
